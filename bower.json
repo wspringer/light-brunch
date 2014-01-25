@@ -1,0 +1,16 @@
+{
+  "name": "your-app",
+  "version": "0.0.1",
+  "main": "public/app.js",
+  "dependencies": {
+    "foundation": "~5.0.3"
+  },
+  "overrides": {
+    "modernizr": {
+      "main": "modernizr.js"
+    },
+    "jquery-placeholder": {
+      "main": "jquery-placeholder.js"
+    }
+  }
+}
